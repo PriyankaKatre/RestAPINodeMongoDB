@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Laptop",
+        "price":"20000",
+        "featured": true,
+        "company": "apple"
+    },
+    {
+      "name": "iphone10",
+      "price": "30000",
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "iphone",
+      "price": "40000",
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Laptop",
+      "price": "20000",
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "DellGaming",
+      "price": "20000",
+      "company": "Dell"
+    },
+    {
+      "name": "miphone",
+      "price": "60000",
+      "company": "MI"
+    }
+]
